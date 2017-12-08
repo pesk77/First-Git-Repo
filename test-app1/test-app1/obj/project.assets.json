@@ -2279,11 +2279,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/pesk/Projects/test-app1/test-app1/test-app1.csproj",
+      "projectUniqueName": "/Users/pesk/Projects/pesk77/First-Git-Repo.git/test-app1/test-app1/test-app1.csproj",
       "projectName": "test-app1",
-      "projectPath": "/Users/pesk/Projects/test-app1/test-app1/test-app1.csproj",
+      "projectPath": "/Users/pesk/Projects/pesk77/First-Git-Repo.git/test-app1/test-app1/test-app1.csproj",
       "packagesPath": "/Users/pesk/.nuget/packages/",
-      "outputPath": "/Users/pesk/Projects/test-app1/test-app1/obj",
+      "outputPath": "/Users/pesk/Projects/pesk77/First-Git-Repo.git/test-app1/test-app1/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
